@@ -6,7 +6,7 @@ This file defines domains to be blocked and is automatically fetched every 24 ho
 
 - **Each line must contain exactly one domain** (e.g., `example.com`). Wildcards (e.g., `*.example.com`) are supported.
 - **Incorrect entries can cause partial or complete internet outages** in the labs. Double-check all changes.
-- There are already rules in place blocking **adware, malware, NSFW content**, and other known threats.  
+- There are already rules in place blocking **adware, malware, NSFW content**, and other known threats.
   **DO NOT use this file for that purpose!**
 - To safely propose updates:
   1. **Create a new branch**.
