@@ -2,7 +2,7 @@
 
 This file defines domains to be blocked and is automatically fetched every 24 hours by the system that manages internet restrictions in Laboratories 1–6.
 
-## ⚠️ Critical Notice
+## Critical Notice
 
 - **Each line must contain exactly one domain** (e.g., `example.com`). Wildcards (e.g., `*.example.com`) are supported.
 - **Incorrect entries can cause partial or complete internet outages** in the labs. Double-check all changes.
