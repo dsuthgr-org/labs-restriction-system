@@ -1,4 +1,4 @@
-# Internet Access Control Configuration for Auto-Provisioning
+# Internet Access Configuration for Auto-Provisioning
 
 This repository contains configuration files that define internet access restrictions and are automatically fetched every 6 hours by the system that manages internet access in Laboratories 1–6.
 
@@ -15,7 +15,7 @@ This repository is **publicly accessible** to ensure transparency in our interne
 
 - **Each line must contain exactly one domain** (e.g., `example.com`). Wildcards (e.g., `*.example.com`) are supported.
 - **Incorrect entries can cause partial or complete internet outages** in the labs. Double-check all changes.
-- The **`allowlist.txt`** contains essential domains required for core university services (Microsoft Office, university systems, etc.). Removing entries from this file may break critical functionality.
+- The **`allowlist.txt`** contains essential domains required for core university services (University Systems, DELOS, Microsoft Office, etc.). Removing entries from this file may break critical functionality.
 - There are already rules in place blocking **adware, malware, NSFW content**, and other known threats.
   **DO NOT use the blocklist for that purpose!**
 - To safely propose updates:
