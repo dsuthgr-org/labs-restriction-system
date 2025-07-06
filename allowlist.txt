@@ -1,0 +1,14 @@
+*.cloud.microsoft
+*.data.microsoft.com
+*.grnet.gr
+*.live.com
+*.microsoftonline.com
+*.msauth.net
+*.msftauth.net
+*.office.com
+*.office.net
+*.usercontent.microsoft
+*.uth.gr
+api.spiceworks.com
+dns.msftncsi.com
+forms.microsoft.com
