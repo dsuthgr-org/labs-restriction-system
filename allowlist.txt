@@ -11,3 +11,4 @@
 *.uth.gr
 api.spiceworks.com
 dns.msftncsi.com
+forms.microsoft.com
