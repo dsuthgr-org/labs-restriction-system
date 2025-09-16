@@ -12,3 +12,4 @@
 api.spiceworks.com
 dns.msftncsi.com
 forms.microsoft.com
+cs.teilar.gr
