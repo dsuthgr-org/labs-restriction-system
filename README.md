@@ -1,6 +1,6 @@
 # Internet Access Configuration for Auto-Provisioning
 
-This repository contains configuration files that define internet access restrictions and are automatically fetched every 12 hours by the system that manages internet access in Laboratories 01–06.
+This repository contains configuration files that define internet access restrictions and are automatically fetched every 1 hour by the system that manages internet access in Laboratories 01–06.
 
 ## Files
 
